@@ -1,10 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
-# la activias es la 5 no la 4
+#Acitividad de docker 5
 
 ¡Entendido! He revisado la documentación del módulo 5 ("Creación de imágenes Docker") del curso Docker en el repositorio que proporcionaste. Sin embargo, parece que necesitas documentar ejemplos relacionados con Docker Compose, lo cual corresponde al módulo 4. A continuación, te proporcionaré una guía sobre cómo documentar ejemplos de Docker Compose para la actividad 5, aunque técnicamente se refiere a contenido del módulo 4.
 
