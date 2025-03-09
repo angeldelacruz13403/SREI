@@ -1,10 +1,6 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# 
 
----
-
-# amos a crear un VPC con las siguientes condiciones:
+# Vamos a crear un VPC con las siguientes condiciones:
 
 Se trata de montar una infraestructura para una empresa que va a tener dos subredes, una pública y otra privada.
 La zona pública deberá tener salida a Internet a través de un Gateway propio creado ad-hoc para el VPC.
